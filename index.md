@@ -4,7 +4,7 @@ title: ""
 ---
 
 <div style="text-align: center; margin-bottom: 2em;">
-  <img src="/assets/gyu_headshot_2.jpg" alt="Gyu Kim" style="width: 220px; height: 220px; object-fit: cover; border-radius: 50%;">
+  <img src="/assets/gyu_picture_2.jpg" alt="Gyu Kim" style="width: 220px; height: 220px; object-fit: cover; border-radius: 50%;">
 </div>
 
 Hello! I am a Biochemistry PhD candidate in [Khavari lab](https://khavarilab.stanford.edu/) at Stanford University, the school of Medicine. I am also in the Computer Science PhD Minor track focused on Machine Learning. 
