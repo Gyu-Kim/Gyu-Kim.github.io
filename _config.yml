@@ -16,11 +16,11 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "About me", file: "/about_me.md"}
+  - {title: "About me", file: "about_me.md"}
   - {title: "CV", file: "/GyuKim.pdf"}
-  - {title: "Research", file: "/research.md"}
-  - {title: "Blog", file: "/blog.md"}
-  - {title: "Miscellaneous", file: "/mis.md"}
+  - {title: "Research", file: "research.md"}
+  - {title: "Blog", file: "blog.md"}
+  - {title: "Miscellaneous", file: "mis.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:gyukim@stanford.edu"}
