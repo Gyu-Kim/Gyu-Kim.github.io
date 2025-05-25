@@ -1,6 +1,6 @@
 title: "Gyu Kim"
 author: "Gyu Kim"
-description: "Stanford University, School of Medicine"
+description: "Stanford University"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "About me", file: "/GyuKim.pdf"}
+  - {title: "About me", file: "/about_me.md"}
   - {title: "CV", file: "/GyuKim.pdf"}
   - {title: "Research", file: "/research.md"}
   - {title: "Blog", file: "/blog.md"}
