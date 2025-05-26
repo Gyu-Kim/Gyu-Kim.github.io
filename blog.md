@@ -36,7 +36,7 @@
       </p>
       <div class="mt-4 flex items-center text-sm text-gray-500">
         <span class="font-semibold">Gyu Kim</span>
-        <span class="ml-auto">2024</span>
+        <span class="ml-auto">2023</span>
       </div>
     </div>
   </a>
