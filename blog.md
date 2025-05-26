@@ -30,7 +30,7 @@
         <span class="bg-gray-200 px-2 py-1 rounded">Graph ML</span>
         <span class="bg-gray-200 px-2 py-1 rounded">RNA</span>
       </div>
-      <h3 class="text-lg font-bold mb-1">RNA structure prediction using GAT</h3>
+      <h3 class="text-lg font-bold text-black mb-1">Predicting RNA reactivity using Graph Machine Learning</h3>
       <p class="text-gray-700 text-sm">
         We tried to predict the reactivity profiles for DMS and 2A3 from the RNA sequence using Graph Attention Network (GAT) by using Stanford Ribonanze RNA Folding dataset and RFold algorithm.
       </p>
