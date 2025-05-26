@@ -3,12 +3,30 @@ layout: page
 title: ""
 ---
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
-  <div style="flex-shrink: 0;">
-    <img src="/assets/gyu_picture_2.jpg" alt="Gyu Kim" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-right: 30px;">
-  </div>
-  <div style="flex: 1;">
-    <p> Hi, I am Gyu Kim. I was born and raised in South Korea. My original Korean first name is Gyuhyeon (규현), but I go by Gyu because people often struggle to make the correct pronunciation. (Sounds like gyu in Wagyu beef instead of Guy-u) I finished my bachelor's degree in Chemistry at Seoul National University in Seoul, South Korea, with a minor in Biological Science. Back then, I was more interested in studying human biology, but didn't really know what the full-time research life looked like. So, I worked as a research technician in <a href="https://pellmanlab.dana-farber.org/" target="_blank">the Pellman lab</a> at Dana-Farber Cancer Institute in Boston with an amazing science mentor, Kathleen Xie. I studied validating the association between cell nuclear rupture and DNA damage to show that nuclear rupture does not cause any significant DNA damage, which is against what has been reported in the field, using live-cell tracking confocal imaging and automated high-throughput image quantification software. (Waiting to be published someday) </p>
+## <strong>Current Project</strong>
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+  <img src="/assets/project_pic1.png" alt="Project 1" style="width: 160px; margin-right: 20px;">
+  <div>
+    <p style="font-size: 1.2em; font-weight: bold; margin: 0;">Transcription activity modeling from transcription factor binding data</p>
+    <p> <em>"Can we predict transcription activities from the limited set of transcription factor binding data?"</em><br><br> Transcription factors (TF) are the key trans-acting elements of gene expression. However, the quantitative contributions of their activities on gene expression still remain unclear due to the complex combinatorial actions of TF on each gene. Recent literature on sequence-trained models (Puffin and EVO-2) showed some exemplary cases of modeling genetic properties from the pure sequence. However, the motif-based inferences are often discordant with the physical binding of transcription factors and are missing the dynamic range of TF binding intensities. In this project, we are building a highly accurate predictive and interpretable model of transcription activity using only a few sets of transcription factor binding data and inferring the TF and gene expression relationship using SHAP interpretation. </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+  <img src="/assets/project_pic2.jpg" alt="Project 2" style="width: 160px; margin-right: 20px;">
+  <div>
+    <p style="font-size: 1.2em; font-weight: bold; margin: 0;">Transcription activity modeling from transcription factor binding data</p>
+    <p> <em>"Can we predict transcription activities from the limited set of transcription factor binding data?"</em><br><br> Transcription factors (TF) are the key trans-acting elements of gene expression. However, the quantitative contributions of their activities on gene expression still remain unclear due to the complex combinatorial actions of TF on each gene. Recent literature on sequence-trained models (Puffin and EVO-2) showed some exemplary cases of modeling genetic properties from the pure sequence. However, the motif-based inferences are often discordant with the physical binding of transcription factors and are missing the dynamic range of TF binding intensities. In this project, we are building a highly accurate predictive and interpretable model of transcription activity using only a few sets of transcription factor binding data and inferring the TF and gene expression relationship using SHAP interpretation. </p>
+  </div>
+</div>
+
+## <strong>Previous Project</strong>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+  <img src="/assets/project_pic2.jpg" alt="Previous Project" style="width: 160px; margin-right: 20px;">
+  <div>
+    <p style="font-size: 1.2em; font-weight: bold; margin: 0;">Previous Project Title</p>
+    <p>Summary or description of your previous research. Feel free to include links, references, or outcomes from this work.</p>
   </div>
 </div>
