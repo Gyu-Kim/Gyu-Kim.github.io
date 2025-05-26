@@ -4,7 +4,7 @@
 <div class="p-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
 
   <!-- Card 1 -->
-  <a href="/_posts/blog_1.md" class="block bg-white rounded-xl shadow-md overflow-hidden hover:shadow-xl transition-shadow duration-300">
+  <a href="/blog/blog_1.md" class="block bg-white rounded-xl shadow-md overflow-hidden hover:shadow-xl transition-shadow duration-300">
     <img class="h-48 w-full object-cover" src="/assets/project_pic1.png" alt="Research Topic 1">
     <div class="p-4">
       <div class="flex space-x-2 mb-2 text-sm text-gray-600">
@@ -23,7 +23,7 @@
   </a>
 
   <!-- Card 1 -->
-  <a href="/_posts/blog_1.md" class="block bg-white rounded-xl shadow-md overflow-hidden hover:shadow-xl transition-shadow duration-300">
+  <a href="/blog/blog_1.md" class="block bg-white rounded-xl shadow-md overflow-hidden hover:shadow-xl transition-shadow duration-300">
     <img class="h-48 w-full object-cover" src="/assets/project_pic1.png" alt="Research Topic 1">
     <div class="p-4">
       <div class="flex space-x-2 mb-2 text-sm text-gray-600">
