@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Blog writing 1"
+title: "Modeling TF Activity from Binding Data"
 permalink: /blog/blog-1/
 ---
 
