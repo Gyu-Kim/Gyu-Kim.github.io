@@ -11,7 +11,7 @@
         <span class="bg-gray-200 px-2 py-1 rounded">TF</span>
         <span class="bg-gray-200 px-2 py-1 rounded">ML</span>
       </div>
-      <h3 class="text-lg font-bold mb-1">Modeling TF Activity from Binding Data</h3>
+      <h3 class="text-lg font-bold mb-1">Modeling TF</h3>
       <p class="text-gray-700 text-sm">
         We model transcription activity from a limited number of TF binding datasets using interpretable machine learning, uncovering combinatorial logic with SHAP values.
       </p>
