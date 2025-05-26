@@ -16,8 +16,9 @@ title: ""
 
 <p style="font-style: italic; margin-top: 0.5em;">
   <a href="/assets/2024_biochem_retreat_protected.pdf" download style="color: #007acc; text-decoration: underline;">
-    The poster containing the recent work is available with a granted passcode. (2024 Oct)
+    The poster containing the recent work (Oct 2024) 
   </a> 
+  is available with a granted passcode. 
 </p>
 
 <div style="margin: 2em 0; padding: 1.5em; background: #f7f7f7; border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); display: flex; align-items: flex-start; gap: 20px;">
