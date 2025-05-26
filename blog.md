@@ -8,8 +8,8 @@
     <img class="h-48 w-full object-cover" src="/assets/project_pic1.png" alt="Research Topic 1">
     <div class="p-4">
       <div class="flex space-x-2 mb-2 text-sm text-gray-600">
-        <span class="bg-gray-200 px-2 py-1 rounded">TF Binding</span>
-        <span class="bg-gray-200 px-2 py-1 rounded">Machine Learning</span>
+        <span class="bg-gray-200 px-2 py-1 rounded">TF</span>
+        <span class="bg-gray-200 px-2 py-1 rounded">ML</span>
       </div>
       <h3 class="text-lg font-bold mb-1">Modeling TF Activity from Binding Data</h3>
       <p class="text-gray-700 text-sm">
