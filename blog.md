@@ -26,7 +26,7 @@
   <!-- Add more <a> cards below here for additional posts -->
 
   <!-- Card -->
-  <a href="/blog/blog-1/" class="flex flex-col md:flex-row bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden">
+  <a href="/blog/CS224N_Spring_2024_Project_Final_Report.pdf" class="flex flex-col md:flex-row bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden">
     <!-- Left: Image -->
     <img class="w-full md:w-64 h-48 object-cover md:h-auto" src="/blog/blog2.png" alt="TF Modeling Image">
 
@@ -40,7 +40,7 @@
       </div>
       <h3 class="text-lg font-bold text-black mb-2">Predicting gene expression using human LLM and Transformer</h3>
       <p class="text-gray-700 text-sm">
-        Interesting approach of embedding a human transcription factor dataset and predicting gene expression by fine-tuning human Large Langauage Model (LLM), and comparing those transformer-based model with a more biologically relevant embedding. Interestingly, performances are...
+        Interesting approach of embedding a human transcription factor dataset and predicting gene expression by fine-tuning a human Large Language Model (LLM), and comparing those with a transformer-based model with a more biologically relevant embedding. Interestingly, performances are... (Full content only accessible with a granted access code)
       </p>
       <div class="mt-4 text-sm text-gray-500 font-semibold">Gyu Kim</div>
     </div>
