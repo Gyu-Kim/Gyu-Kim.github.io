@@ -66,7 +66,7 @@ title: ""
 <div style="margin: 2em 0; padding: 1.5em; background: #f7f7f7; border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); display: flex; align-items: flex-start; gap: 20px;">
 
   <!-- Left side image -->
-  <img src="/assets/research_prev.png" alt="TF Modeling" style="width: 280px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.15); flex-shrink: 0;">
+  <img src="/assets/project_pic2.png" alt="TF Modeling" style="width: 280px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.15); flex-shrink: 0;">
 
   <!-- Right side content -->
   <div style="flex: 1;">
