@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Blog writing 1"
 permalink: /blog/blog-1/
 ---
