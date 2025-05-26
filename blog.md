@@ -26,6 +26,27 @@
   <!-- Add more <a> cards below here for additional posts -->
 
   <!-- Card -->
+  <a href="/blog/blog-1/" class="flex flex-col md:flex-row bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden">
+    <!-- Left: Image -->
+    <img class="w-full md:w-64 h-48 object-cover md:h-auto" src="/blog/blog2.png" alt="TF Modeling Image">
+
+    <!-- Right: Text content -->
+    <div class="p-4 flex flex-col justify-between">
+      <div class="mb-2 flex space-x-2 text-sm text-gray-600">
+        <span class="bg-gray-200 px-2 py-1 rounded">LLM</span>
+        <span class="bg-gray-200 px-2 py-1 rounded">ML</span>
+        <span class="bg-gray-200 px-2 py-1 rounded">Transformer</span>
+        <span class="bg-gray-200 px-2 py-1 rounded">TF</span>
+      </div>
+      <h3 class="text-lg font-bold text-black mb-2">Predicting gene expression using human LLM and Transformer</h3>
+      <p class="text-gray-700 text-sm">
+        Interesting approach of embedding a human transcription factor dataset and predicting gene expression by fine-tuning human Large Langauage Model (LLM), and comparing those transformer-based model with a more biologically relevant embedding. Interestingly, performances are...
+      </p>
+      <div class="mt-4 text-sm text-gray-500 font-semibold">Gyu Kim</div>
+    </div>
+  </a>
+
+  <!-- Card -->
   <a href="https://medium.com/stanford-cs224w/enabling-prediction-of-rna-structure-from-sequences-by-estimating-chemical-probe-maps-with-graph-45faa6617717" class="flex flex-col md:flex-row bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden">
     <!-- Left: Image -->
     <img class="w-full md:w-64 h-48 object-cover md:h-auto" src="/blog/blog1.png" alt="TF Modeling Image">
