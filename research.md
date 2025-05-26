@@ -35,7 +35,7 @@ title: ""
 </div>
 
 <p style="font-size: 1.2em; font-weight: bold; margin: 0;">
-  II. Comprehensive Characterization of Non-consensus Binding of Human Transcription Factors in vivo
+  II. Comprehensive Characterization of Non-consensus Binding of Human Transcription Factors
 </p>
 
 <!-- Italic question -->
