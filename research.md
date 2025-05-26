@@ -60,18 +60,21 @@ title: ""
 ## <strong>Previous Research</strong>
 
 <p style="font-size: 1.2em; font-weight: bold; margin: 0;">
-  Identifying essential lncRNAs for skin cancer growth via in vivo CRISPRi screen
+  In vivo CRISPRi screen reveals lncRNA portfolio crucial for cutaneous squamous cell carcinoma tumor growth
+  <a href="https://www.biorxiv.org/content/10.1101/2024.10.16.618774v1" download style="color: #007acc; text-decoration: underline;">
+    (Biorxiv Preprint)
+  </a> 
 </p>
 
 <div style="margin: 2em 0; padding: 1.5em; background: #f7f7f7; border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); display: flex; align-items: flex-start; gap: 20px;">
 
   <!-- Left side image -->
-  <img src="/assets/project_pic2.png" alt="TF Modeling" style="width: 280px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.15); flex-shrink: 0;">
+  <img src="/assets/research_prev.png" alt="TF Modeling" style="width: 280px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.15); flex-shrink: 0;">
 
   <!-- Right side content -->
   <div style="flex: 1;">
     <p style="line-height: 1.6; color: #333;">
-    Preprint accessible on the link. https://www.biorxiv.org/content/10.1101/2024.10.16.618774v1
+    Cutaneous squamous cell carcinoma (cSCC) accounts for 20% of all skin cancer mortality globally, making it the second-highest subtype of skin cancer.  By performing pseudobulk analysis of single-cell sequencing data from normal and cSCC human skin tissues, we determined a global portfolio of lncRNAs specifically expressed in keratinocyte subpopulations. Integration of CRISPR interference screens in vitro and the xenograft model identified several lncRNAs impacting the growth of cSCC cancer lines both in vitro and in vivo. Among these, we further validated LINC00704 and LINC01116 as proliferation-regulating lncRNAs in cSCC lines and potential biomarkers of cSCC growth.
     </p>
   </div>
 </div>
