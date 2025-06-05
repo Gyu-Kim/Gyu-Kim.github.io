@@ -42,7 +42,7 @@ title: ""
 
 <!-- Italic question -->
 <p style="font-style: italic; margin-top: 0.5em;">
-  "What's the scope of non-consensus binding of transcription factors?"<br>
+  "What is the scope of nonconsensus binding of transcription factors?"<br>
   "Can we better understand the factors mediating those non-consensus binding events?"
 </p>
 
