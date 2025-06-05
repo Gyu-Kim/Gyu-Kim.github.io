@@ -26,7 +26,7 @@
   <!-- Add more <a> cards below here for additional posts -->
 
   <!-- Card -->
-  <a href="/blog/CS224N_Spring_2024_Project_Final_Report.pdf" class="flex flex-col md:flex-row bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden">
+  <a href="/blog/CS224N_Spring_2024_Project_Articles.pdf" class="flex flex-col md:flex-row bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden">
     <!-- Left: Image -->
     <img class="w-full md:w-64 h-48 object-cover md:h-auto" src="/blog/blog2.png" alt="TF Modeling Image">
 
