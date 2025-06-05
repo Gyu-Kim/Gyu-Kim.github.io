@@ -13,4 +13,4 @@ I am interested in modeling the complex space of molecular biology and making an
 ### Updates
 - 2025-05-06 My first PhD project got accepted in JID! [Check out the article!](https://pubmed.ncbi.nlm.nih.gov/40441291/)
 - 2024-12-13 Completed all the coursework requirements for CS PhD minor.
-- 2024-03-03 Got selected as a MAC3 fellowship recipient for 2023-2024. 
+- 2024-03-03 Got selected as a MAC3 fellowship recipient for 2023-2024. Thanks to the MAC3 foundation for your support! 
