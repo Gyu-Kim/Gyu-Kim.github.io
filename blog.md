@@ -40,7 +40,7 @@
       </div>
       <h3 class="text-lg font-bold text-black mb-2">Can a Human language model be utilized to predict molecular properties?</h3>
       <p class="text-gray-700 text-sm">
-        Interesting approach of embedding a human transcription factor dataset and predicting gene expression by fine-tuning a human Large Language Model (LLM), and comparing those with a transformer-based model with a more biologically relevant embedding. Interestingly, performances are... <br> Stanford CS224N Project. (Only accessible with a granted access code).
+        Interesting approach of embedding a human transcription factor dataset and predicting gene expression by fine-tuning a human Large Language Model (LLM), and comparing those with a transformer-based model with a more biologically relevant embedding. Interestingly, performances are... <br> Stanford CS224N Project.
       </p>
       <div class="mt-4 text-sm text-gray-500 font-semibold">Gyu Kim</div>
     </div>
