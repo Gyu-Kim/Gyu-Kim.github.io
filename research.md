@@ -59,7 +59,7 @@ title: ""
   </div>
 </div>
 
-## <strong>Previous Research</strong>
+## <strong>Published Research</strong>
 
 <p style="font-size: 1.2em; font-weight: bold; margin: 0;">
   In vivo CRISPRi screen reveals lncRNA portfolio crucial for cutaneous squamous cell carcinoma tumor growth
