@@ -38,7 +38,7 @@
         <span class="bg-gray-200 px-2 py-1 rounded">Transformer</span>
         <span class="bg-gray-200 px-2 py-1 rounded">TF</span>
       </div>
-      <h3 class="text-lg font-bold text-black mb-2">Can a Human language model be utilized to predict molecular properties?</h3>
+      <h3 class="text-lg font-bold text-black mb-2">Can human large language models be utilized to predict molecular properties?</h3>
       <p class="text-gray-700 text-sm">
         Interesting approach of embedding a human transcription factor dataset and predicting gene expression by fine-tuning a human Large Language Model (LLM), and comparing those with a transformer-based model with a more biologically relevant embedding. Interestingly, performances are...
       </p>
