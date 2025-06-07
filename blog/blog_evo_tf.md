@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Perspectives on transcription factors evolution"
 permalink: /blog/blog_evo_tf/
 ---
 
@@ -19,7 +18,7 @@ permalink: /blog/blog_evo_tf/
 
 /* Title styled like Medium */
 .medium-style-post h1 {
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   font-weight: 700;
   margin-bottom: 1.5rem;
 }
