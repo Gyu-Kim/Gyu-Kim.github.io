@@ -1,0 +1,52 @@
+---
+layout: page
+permalink: /blog/blog_tf_causal/
+---
+
+<style>
+/* White card-style blog post on black background */
+.medium-style-post {
+  background-color: white;
+  color: black;
+  font-family: Georgia, "Times New Roman", serif;
+  padding: 2rem;
+  max-width: 900px;
+  margin: 4rem auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+/* Title styled like Medium */
+.medium-style-post h1 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+}
+
+/* Paragraph styling */
+.medium-style-post p {
+  font-size: 0.9rem;
+  line-height: 1.7;
+  margin-bottom: 1.25rem;
+}
+</style>
+
+<div class="medium-style-post">
+  <h1>Perspectives on causality of gene regulation network</h1>
+  <p>Ever since the concept of “gene” has been introduced, we have been still gaining more knowledge about genes. From protein-coding genes, non-coding genes, pseudogenes to undefined categories of expression, the field is still defining the set, characterizing its functions, and understanding what regulates them. (I was surprised to learn that the T2T-project added around 120 protein-coding genes in 2022!) Especially, in the system biology and genomics perspective, understanding the links between all the genes and drawing regulatory networks has been a big push over the last decade because we eventually want to understand what regulates what in mechanistic perspectives. Here, I am just laying out a quick overview of the relevant work and interesting future directions in mind. </p> 
+
+ <h2 style="margin-top: 2rem; font-size: 1.3rem; font-weight: 600;">Experimental Approach</h2>
+  <p> We are living in an era where we can now perturb thousands of genes in parallel and measure the transcriptional effects. (Thanks to the single-cell RNA-seq). However, the major downside of this approach is the incomplete perturbation effect of the guide RNA and timeline delays on the output from its point of the perturbation. The incomplete perturbation effect means either incomplete removal of the target genes or off-target effects. Both are really common and not mutually exclusive. I remember that one paper that we discussed in the lab journal club showed that only two of four guides (on average) were effectively working, even on their original target. Also, delays in the timeline add up lots of secondary and tertiary effects on the genetic readouts from the experiments. All those combined, perturb-seq itself could be a noisy data to disentangle the direct causal relationship of gene regulatory network unless you’re working on the pre-defined network context. So, it could be useful for better characterizing the quantitative causal inferences on a well-defined genetic network, but it may not be the best dataset to do causal discovery. However, causal discovery is the ultimate direction that fields want to move forward, ideally, understanding the whole genetic network and connecting with protein modulators. </p>
+    
+  <p> Personally, the most exciting approach/dataset that I’ve seen is <a href="https://www.nature.com/articles/s41586-025-08916-0" target="_blank"> this recently published paper in Nature </a>. Here, they performed degron knockdown followed by RNA-seq for all existing TF in yeasts. Unlike perturb-seq or nucleotide-mediated knockdown, degron degradation provides instant removal of a factor and provides a better direct readout of the perturbation by minimizing the secondary effect. This might be the dataset that contains the cleanest causal link between TFs and gene expression. The most interesting results they presented are (1) the majority of TF bindings were not functionally impactful on gene expression (which has been reported in the small journal for quite a long time, but getting things published in Nature as their main discovery could bring more impact in the field for sure), (2) Most of the TF showed bidirectional impact on gene expression, (3) Some gene expression changes were observed when TF were not bound near the gene. The paper was mostly a summary report on the observation, but the causal model could certainly bring more insights into this relationship. (which I am working on now!). The third part discovery (3) is quite interesting and mysterious about how genes could be impacted without having a direct binding nearby. One explanation could be that it’s a simple secondary target effect that happened during the 30-minute time interval between perturbation and sample collections. The other explanation, which is less boring, is that a TF involved in this gene requires a perturbed TF to regulate genes properly. </p>  
+
+  <h2 style="margin-top: 2rem; font-size: 1.3rem; font-weight: 600;">Computational Approach</h2>
+  <p> There has been a big improvement in modeling spaces in transcriptomics as well. One notable recent research is <a href="[https://www.nature.com/articles/s41586-025-08916-0](https://www-nature-com.stanford.idm.oclc.org/articles/s41587-023-01905-6)" target="_blank"> GEAR </a>, which predicts transcriptomic effects from in silico perturbation (This paper is from the Jure lab at Stanford. For a small note, he was my instructor for Graph Machine Learning and Mining Massive Datasets classes! I didn’t know he was the last author until I read this paper again after a couple of months.) This approach took an existing gene regulatory graph network and further trained the edge importances between different genes, then enabled models to predict perturbation effects of genes or drugs. Though there were some variabilities in accuracy, having the exemplary case of modeling the perturbation effect is a great advancement in the field. Also, building a model based on RNA-seq data makes the model scalable to other cell systems, though the prior network knowledge on different cellular contexts may vary. This model wasn’t specifically trained on the causality model, but I expect that incorporating a graph might have played a significant role in showing a decent performance in predicting perturbation effects. </p>
+
+  <h2 style="margin-top: 2rem; font-size: 1.3rem; font-weight: 600;">Why causality and why a model?</h2>
+  <p> Over the exponential growth of machine learning models getting deployed, what the field has been constantly observing is that the model is learning what it’s optimized for. The model trained and optimized for a particular purpose will perform better than the model trained for broader purposes, like foundation models. A causal model is built particularly to predict unseen perturbation effects by identifying direct and confounding effects from a complex dataset. The big advantage of having the (causal) computational model is the capability of performing multi-perturbation or even backtracking the putative perturbation feature sets to obtain a particular genetic outcome. There have been ongoing efforts on building foundation single cell models in the pharmaceutical and academic space, such as SCimilarity from Genentech and the Virtual Cell project from the Arc Institute. At least from the foundation model from Genentech, the main usage was matching cells with unknown cell types from the existing cell types instead of predicting perturbations. The causality model may provide a big leap to move forward to toggle and engineer cells by controlling combinations of TF in CAR-T, aging, inflammation, and stem cell contexts. </p>
+
+ <h2 style="margin-top: 2rem; font-size: 1.3rem; font-weight: 600;">What’s missing? How can we make this happen?</h2>
+  <p> The fundamental issues of modeling human cellular systems are (1) different cell types have different gene regulatory programs, and (2) cellular outcomes are not completely cell-autonomous processes (cell-to-cell interaction and extrinsic signaling factors often play a big role in this process). However, modeling in a simple confined cell type could be a good starting point, such as HepG2 or K562. In the experimental aspect, unlike yeast, humans have ~1600 TFs, but we don’t have a high-throughput system to chart all those TF at once. Having a high-throughput experimental setup that we can measure all TF binding sites at the same time would be a great addition to better understand the TF dynamics and TF-gene relationship. Also, having a set of human TF degron system (like yeast) that we can apply high-throughput protein-level degradation would provide a clearer view of the causal relation in the human cellular contexts. </p>   
+
+</div>
