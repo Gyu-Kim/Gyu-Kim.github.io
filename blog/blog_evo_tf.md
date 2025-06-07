@@ -49,16 +49,16 @@ permalink: /blog/blog_evo_tf/
 Then, what does this number of TF indicate? For example, in humans, is 1600 just enough number to control 20,000 genes? (~60,000 genes, including noncoding RNA and pseudogenes) or excessive or low? Are any of them dispensable? What is the order of the acquisition of TF over the evolutions? What is the most recently emerged TF? All those questions are still unanswered.</p>
 
   <figure style="text-align: center; margin-top: 2rem;">
-    <img src="/blog/image/blog_evo_tf_2.png" alt="TF Evolution" style="max-width: 50%; height: auto; border-radius: 8px; margin-top: 1rem;">
+    <img src="/blog/image/blog_evo_tf_2.png" alt="TF Evolution" style="max-width: 80%; height: auto; border-radius: 8px; margin-top: 1rem;">
     <figcaption style="font-size: 0.9rem; color: #555; margin-top: 0.5rem;">
-      Figure 2. Differential expression of TF across different tissues. (From Lambert et al.)
+      Figure 2. Differential expression of TF across different tissues. (from Lambert et al.)
     </figcaption>
   </figure>
 
   <figure style="text-align: center; margin-top: 2rem;">
-    <img src="/blog/image/blog_evo_tf_3.png" alt="TF Evolution" style="max-width: 50%; height: auto; border-radius: 8px; margin-top: 1rem;">
+    <img src="/blog/image/blog_evo_tf_3.png" alt="TF Evolution" style="max-width: 80%; height: auto; border-radius: 8px; margin-top: 1rem;">
     <figcaption style="font-size: 0.9rem; color: #555; margin-top: 0.5rem;">
-      Figure 2. Evolutionary conservation of human TFs. (From Lambert et al.)
+      Figure 2. Evolutionary conservation of human TFs. (from Lambert et al.)
     </figcaption>
   </figure>
   
