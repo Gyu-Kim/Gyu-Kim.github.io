@@ -25,14 +25,14 @@ permalink: /blog/blog_evo_tf/
 
 /* Paragraph styling */
 .medium-style-post p {
-  font-size: 1.1rem;
+  font-size: 0.9rem;
   line-height: 1.7;
   margin-bottom: 1.25rem;
 }
 </style>
 
 <div class="medium-style-post">
-  <h1>Evolutionary perspective on transcription factors. (on update)</h1>
+  <h1>Evolutionary perspective on transcription factors (on update)</h1>
 
   <p>Every living organism with DNA genome needs a way to control gene expressions. Transcription factors (TFs) are the widely known main effectors on this process. How these factors have been evolved around different branch of the living organisms has been always intriguing aspects for me. Kribelbauer et al., the review article about low affinity TF binding, provided a good summary perspective about TF in prokaryotic and eukaryotic system.</p>
 
