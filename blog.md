@@ -5,7 +5,7 @@
 <div class="space-y-6">
 
   <!-- Card -->
-  <a href="/blog/blog_evo_tf.md" class="flex flex-col md:flex-row bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden">
+  <a href="/blog/blog_evo_tf/" class="flex flex-col md:flex-row bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden">
     <!-- Left: Image -->
     <img class="w-full md:w-64 h-48 object-cover md:h-auto" src="/assets/project_pic1.png" alt="TF Modeling Image">
 
