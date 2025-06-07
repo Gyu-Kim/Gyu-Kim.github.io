@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Perspectives on transcription factors evolution"
+permalink: /blog/blog_evo_tf/
+---
+
 <style>
 /* White card-style blog post on black background */
 .medium-style-post {
