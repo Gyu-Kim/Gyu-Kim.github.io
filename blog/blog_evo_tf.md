@@ -10,7 +10,7 @@ permalink: /blog/blog_evo_tf/
   color: black;
   font-family: Georgia, "Times New Roman", serif;
   padding: 2rem;
-  max-width: 700px;
+  max-width: 900px;
   margin: 4rem auto;
   border-radius: 8px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.2);
