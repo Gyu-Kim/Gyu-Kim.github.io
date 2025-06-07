@@ -13,7 +13,6 @@
     <div class="p-4 flex flex-col justify-between">
       <div class="mb-2 flex space-x-2 text-sm text-gray-600">
         <span class="bg-gray-200 px-2 py-1 rounded">TF</span>
-        <span class="bg-gray-200 px-2 py-1 rounded">ML</span>
       </div>
       <h3 class="text-lg font-bold text-black mb-2"> Perspectives on transcription factor evolution </h3>
       <p class="text-gray-700 text-sm">
@@ -35,6 +34,7 @@
       <div class="mb-2 flex space-x-2 text-sm text-gray-600">
         <span class="bg-gray-200 px-2 py-1 rounded">TF</span>
         <span class="bg-gray-200 px-2 py-1 rounded">ML</span>
+        <span class="bg-gray-200 px-2 py-1 rounded">Causal</span>
       </div>
       <h3 class="text-lg font-bold text-black mb-2"> Perspectives on causality of gene regulation network </h3>
       <p class="text-gray-700 text-sm">
