@@ -58,7 +58,7 @@ Then, what does this number of TF indicate? For example, in humans, is 1600 just
   <figure style="text-align: center; margin-top: 2rem;">
     <img src="/blog/image/blog_evo_tf_3.png" alt="TF Evolution" style="max-width: 80%; height: auto; border-radius: 8px; margin-top: 1rem;">
     <figcaption style="font-size: 0.9rem; color: #555; margin-top: 0.5rem;">
-      Figure 2. Evolutionary conservation of human TFs. (from Lambert et al.)
+      Figure 3. Evolutionary conservation of human TFs. (from Lambert et al.)
     </figcaption>
   </figure>
   
