@@ -7,7 +7,7 @@
   <!-- Card -->
   <a href="/blog/blog_evo_tf/" class="flex flex-col md:flex-row bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden">
     <!-- Left: Image -->
-    <img class="w-full md:w-64 h-48 object-cover md:h-auto" src="/assets/project_pic1.png" alt="TF Modeling Image">
+    <img class="w-full md:w-64 h-48 object-cover md:h-auto" src="/blog/image/blog_evo_tf_1.png" alt="TF Modeling Image">
 
     <!-- Right: Text content -->
     <div class="p-4 flex flex-col justify-between">
@@ -15,9 +15,9 @@
         <span class="bg-gray-200 px-2 py-1 rounded">TF</span>
         <span class="bg-gray-200 px-2 py-1 rounded">ML</span>
       </div>
-      <h3 class="text-lg font-bold text-black mb-2"> Perspectives on transcription factors evolution </h3>
+      <h3 class="text-lg font-bold text-black mb-2"> Perspectives on transcription factor evolution </h3>
       <p class="text-gray-700 text-sm">
-        We model transcription activity from a limited number of TF binding datasets using interpretable machine learning, uncovering combinatorial logic with SHAP values.
+        Every living organism with a DNA genome needs a way to control its gene expression. Transcription factors (TFs) are the widely known main effectors of this process. How these factors have evolved around different branches of the living organisms has always been an intriguing aspect for me
       </p>
       <div class="mt-4 text-sm text-gray-500 font-semibold">Gyu Kim</div>
     </div>
