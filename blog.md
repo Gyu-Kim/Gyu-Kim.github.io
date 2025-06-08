@@ -5,7 +5,7 @@
 <div class="space-y-6">
 
   <!-- Card -->
-  <a href="/blog/blog_evo_tf/" class="flex flex-col md:flex-row bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden">
+  <a href="/blog/blog_evo_tf/" target="_blank" rel="noopener noreferrer" class="flex flex-col md:flex-row bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden">
     <!-- Left: Image -->
     <img class="w-full md:w-64 h-48 object-cover md:h-auto" src="/blog/image/blog_evo_tf_3.png" alt="TF Modeling Image">
 
@@ -25,7 +25,7 @@
   <!-- Add more <a> cards below here for additional posts -->
 
   <!-- Card -->
-  <a href="/blog/blog_tf_causal/" class="flex flex-col md:flex-row bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden">
+  <a href="/blog/blog_tf_causal/" target="_blank" rel="noopener noreferrer" class="flex flex-col md:flex-row bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden">
     <!-- Left: Image -->
     <img class="w-full md:w-64 h-48 object-cover md:h-auto" src="/blog/image/causal_diagram.png" alt="TF Modeling Image">
 
@@ -48,7 +48,7 @@
 
 
   <!-- Card -->
-  <a href="/blog/CS224N_Spring_2024_Project_Articles.pdf" class="flex flex-col md:flex-row bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden">
+  <a href="/blog/CS224N_Spring_2024_Project_Articles.pdf" target="_blank" rel="noopener noreferrer" class="flex flex-col md:flex-row bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden">
     <!-- Left: Image -->
     <img class="w-full md:w-64 h-48 object-cover md:h-auto" src="/blog/blog2.png" alt="TF Modeling Image">
 
@@ -69,7 +69,7 @@
   </a>
 
   <!-- Card -->
-  <a href="https://medium.com/stanford-cs224w/enabling-prediction-of-rna-structure-from-sequences-by-estimating-chemical-probe-maps-with-graph-45faa6617717" class="flex flex-col md:flex-row bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden">
+  <a href="https://medium.com/stanford-cs224w/enabling-prediction-of-rna-structure-from-sequences-by-estimating-chemical-probe-maps-with-graph-45faa6617717" target="_blank" rel="noopener noreferrer" class="flex flex-col md:flex-row bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden">
     <!-- Left: Image -->
     <img class="w-full md:w-64 h-48 object-cover md:h-auto" src="/blog/blog1.png" alt="TF Modeling Image">
 
