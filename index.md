@@ -11,6 +11,7 @@ Hello! I am a Biochemistry PhD candidate in <a href="https://khavarilab.stanford
 I am interested in modeling the complex space of molecular biology and making an interpretable and meaningful biological discovery through analysis and model interpretation. I am actively working on understanding the association between gene regulation and transcription factors, and nonconsensus binding of transcription factors using ML modeling.
 
 ### Updates
+- 2025-07-09 The first co-authorship paper got accepted in Nature Communications. Fun experience to be a part of the revision process about TF! <a href="https://www.biorxiv.org/content/10.1101/2024.11.07.622542v1" target="_blank" rel="noopener noreferrer">[Preprint]</a>
 - 2025-05-06 My first PhD project got accepted in JID! <a href="https://pubmed.ncbi.nlm.nih.gov/40441291/" target="_blank" rel="noopener noreferrer">Check out the article!</a>
 - 2024-12-13 Completed all the coursework requirements for CS PhD minor.
 - 2024-03-03 Got selected as a MAC3 fellowship recipient for 2023-2024. Thanks to the MAC3 foundation for your support! 
