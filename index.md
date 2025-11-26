@@ -16,8 +16,8 @@ Hello world! My name is **Gyu** (he/him) and I am a Biochemistry PhD candidate i
 - 2024-03-03 Got selected as a MAC3 fellowship recipient for 2023-2024. Thanks to the MAC3 foundation for your support!
 
 ### Publications
-- **G Kim**, Z Siprashvili, X Yang, JM Meyers, A Ji, PA Khavari, L Ducoli (2025). <a href="https://pubmed.ncbi.nlm.nih.gov/40441291/" target="_blank" rel="noopener noreferrer">In Vivo CRISPR Interference Screen Reveals Long Noncoding RNA Portfolio Crucial for Cutaneous Squamous Cell Carcinoma Tumor Growth.</a> *Journal of Investigative Dermatology*.
+- <a href="https://pubmed.ncbi.nlm.nih.gov/40441291/" target="_blank" rel="noopener noreferrer">In Vivo CRISPR Interference Screen Reveals Long Noncoding RNA Portfolio Crucial for Cutaneous Squamous Cell Carcinoma Tumor Growth.</a> **G Kim**, Z Siprashvili, X Yang, JM Meyers, A Ji, PA Khavari, L Ducoli. *Journal of Investigative Dermatology*. 2025.
   - Highlighted on a journal commentary <a href="https://www.jidonline.org/article/S0022-202X(25)02271-7/fulltext" target="_blank" rel="noopener noreferrer">[Commentary]</a>
-- DF Porter, ..., **G Kim**, ..., PA Khavari (2025). <a href="https://www.nature.com/articles/s41467-025-63070-5" target="_blank" rel="noopener noreferrer">Disease-linked regulatory DNA variants and homeostatic transcription factors in epidermis.</a> *Nature Communications*.
+- <a href="https://www.nature.com/articles/s41467-025-63070-5" target="_blank" rel="noopener noreferrer">Disease-linked regulatory DNA variants and homeostatic transcription factors in epidermis.</a> DF Porter, ..., **G Kim**, ..., PA Khavari. *Nature Communications*. 2025.
 
 
