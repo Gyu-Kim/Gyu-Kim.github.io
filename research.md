@@ -37,7 +37,7 @@ title: ""
 </div>
 
 <p style="font-size: 1.2em; font-weight: bold; margin: 0;">
-  II. Comprehensive Characterization of Non-consensus Binding of Human Transcription Factors
+  II. Deciphering Nonconsensus and Combinatorial logics of Transcription Factor Binding via Interpretable Machine Learning
 </p>
 
 <!-- Italic question -->
