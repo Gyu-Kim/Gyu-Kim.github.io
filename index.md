@@ -11,13 +11,13 @@ Hello world! My name is **Gyu** (he/him) and I am a Biochemistry PhD candidate i
 
 ### Updates
 - 2025-08-18 My paper received a highlight commentary from JID. <a href="https://www.jidonline.org/article/S0022-202X(25)02271-7/fulltext" target="_blank" rel="noopener noreferrer">[Commentary]</a>
-- 2025-07-09 The first co-authorship paper got accepted in Nature Communications. <a href="https://www.nature.com/articles/s41467-025-63070-5" target="_blank" rel="noopener noreferrer">[Preprint]</a>
+- 2025-07-09 The first co-authorship paper got published in Nature Communications. <a href="https://www.nature.com/articles/s41467-025-63070-5" target="_blank" rel="noopener noreferrer">[Article]</a>
 - 2025-05-06 My first PhD project got accepted in JID! We identified key lncRNAs in skin cancer combining patient scRNA-seq data, in vitro/in vivo CRISPRi screens followed by experimental validations. <a href="https://pubmed.ncbi.nlm.nih.gov/40441291/" target="_blank" rel="noopener noreferrer">[Article]</a>
 - 2024-03-03 Got selected as a MAC3 fellowship recipient for 2023-2024. Thanks to the MAC3 foundation for your support!
 
 ### Publications
-- **G Kim**, Z Siprashvili, X Yang, JM Meyers, A Ji, PA Khavari, L Ducoli (2025). In Vivo CRISPR Interference Screen Reveals Long Noncoding RNA Portfolio Crucial for Cutaneous Squamous Cell Carcinoma Tumor Growth. Journal of Investigative Dermatology.
+- **G Kim**, Z Siprashvili, X Yang, JM Meyers, A Ji, PA Khavari, L Ducoli (2025). <a href="https://pubmed.ncbi.nlm.nih.gov/40441291/" target="_blank" rel="noopener noreferrer">In Vivo CRISPR Interference Screen Reveals Long Noncoding RNA Portfolio Crucial for Cutaneous Squamous Cell Carcinoma Tumor Growth.</a> *Journal of Investigative Dermatology*.
   - Highlighted on a journal commentary <a href="https://www.jidonline.org/article/S0022-202X(25)02271-7/fulltext" target="_blank" rel="noopener noreferrer">[Commentary]</a>
-- DF Porter, ..., **G Kim**, ..., PA Khavari (2025) Disease-linked regulatory DNA variants and homeostatic transcription factors in epidermis, Nature Communications.
+- DF Porter, ..., **G Kim**, ..., PA Khavari (2025). <a href="https://www.nature.com/articles/s41467-025-63070-5" target="_blank" rel="noopener noreferrer">Disease-linked regulatory DNA variants and homeostatic transcription factors in epidermis.</a> *Nature Communications*.
 
 
