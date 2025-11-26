@@ -11,7 +11,7 @@ Hello world! My name is Gyu (he/him) and I am a Biochemistry PhD candidate in <a
 
 ### Publications
 - <a href="https://pubmed.ncbi.nlm.nih.gov/40441291/" target="_blank" rel="noopener noreferrer">In Vivo CRISPR Interference Screen Reveals Long Noncoding RNA Portfolio Crucial for Cutaneous Squamous Cell Carcinoma Tumor Growth.</a> **G Kim**, Z Siprashvili, X Yang, JM Meyers, A Ji, PA Khavari, L Ducoli. *Journal of Investigative Dermatology*. 2025.
-  - Highlighted on a journal commentary <a href="https://www.jidonline.org/article/S0022-202X(25)02271-7/fulltext" target="_blank" rel="noopener noreferrer">[Commentary]</a>
+  - Highlighted on the journal commentary <a href="https://www.jidonline.org/article/S0022-202X(25)02271-7/fulltext" target="_blank" rel="noopener noreferrer">[Commentary]</a>
 - <a href="https://www.nature.com/articles/s41467-025-63070-5" target="_blank" rel="noopener noreferrer">Disease-linked regulatory DNA variants and homeostatic transcription factors in epidermis.</a> DF Porter, ..., **G Kim**, ..., PA Khavari. *Nature Communications*. 2025.
 
 ### Updates
